@@ -1,0 +1,14 @@
+{
+  "name": "newnode.app",
+  "version": "1.0.0",
+  "description": "nuevo node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pily",
+  "license": "ISC",
+  "dependencies": {
+    "beepbeep": "^1.2.2"
+  }
+}
